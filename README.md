@@ -1,14 +1,11 @@
 # Plant-Disease-Detection-ML_DL
--------
 
-### Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
-
----
+#### Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
 ## Installation
 
 - ### Run with GPU:
-  -> Run Tensorflow on GPU.txt
+  -> [Run Tensorflow on GPU.txt](https://github.com/Michs224/Plant-Disease-Detection-ML_DL/blob/main/requirements.txt)
 
 1. Clone the repository:
    ```
