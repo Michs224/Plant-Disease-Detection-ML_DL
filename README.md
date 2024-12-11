@@ -23,6 +23,7 @@
          ```
       - Install dependencies:
          ```bash
+         cd Training
          pip install -r requirements.txt
          ```
   
@@ -44,5 +45,6 @@
            ```
       - Install dependencies:
          ```bash
+         cd Training
          pip install -r requirements.txt
          ```
